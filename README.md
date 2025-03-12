@@ -1,0 +1,4 @@
+Im Rahmen meines Masterstudiums Wirtschaftsingenieurwesen am MCI wurde eine Simulationsstudie zur Optimierung der Materialversorgung in einer Produktionsumgebung durchgeführt. 
+Der bisherige Materialfluss erfolgte über einen dedizierten Routenzug, der in separaten Touren ausschließlich einen bestimmten Montagebereich belieferte. Ziel der Studie war es, zu analysieren, ob ein flexibles, schematisches Belieferungssystem, das mehrere Montagebereiche in einer Tour versorgt, eine gleichwertige oder höhere Effizienz erreichen kann.
+
+Zur Bewertung wurden zentrale Kennzahlen wie Durchlaufzeit, zurückgelegte Strecke, Stillstandszeiten und die Anzahl erfolgreicher Materialbereitstellungen herangezogen. Die Analyse zeigte, dass das schematische Tourensystem eine effizientere Materialversorgung ermöglicht, wodurch das Ziel der Studie erfolgreich erreicht wurde.
